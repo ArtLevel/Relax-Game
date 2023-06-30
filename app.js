@@ -57,6 +57,6 @@ function activeRandomSquare(count) {
 		setColor(board.querySelectorAll('div')[randomSquare])
 		setTimeout(() => {
 			removeColor(board.querySelectorAll('div')[randomSquare])
-		}, 5000)
+		}, 10000)
 	}
 }

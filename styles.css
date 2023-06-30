@@ -32,7 +32,7 @@ body {
 
 	background: #5757571d;
 	box-shadow: 0 0 2px #000;
-	transition: 10s ease;
+	transition: 2s ease;
 }
 
 .square:hover {
